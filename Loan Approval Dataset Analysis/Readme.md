@@ -1,5 +1,5 @@
 # Loan-Approval-Dataset-Analysis 💰
-This project focuses on the alaysis and exploration of the Loan Approval Data set.
+This project focuses on the anlaysis and exploration of the Loan Approval Data set.
 
 ## About the Data Set 📑
 Data set is taken from : https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/
