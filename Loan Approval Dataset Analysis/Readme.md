@@ -51,7 +51,7 @@ Data set is taken from : https://datahack.analyticsvidhya.com/contest/practice-p
      ![box 1](https://github.com/Keerthanareddy95/End-to-End-Data-Science-Projects/assets/123613605/a2d10a42-c568-4110-a9b5-d5a9ccaae74c)
 
 
-## Tools and Libraries Used 🔎
+## Tools and Libraries Used - 🔎
 
 - Google Colab 
 - Pandas, NumPy, Matplotlib, Seaborn for data manipulation and visualization 📊
