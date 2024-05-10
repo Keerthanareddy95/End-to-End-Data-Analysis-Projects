@@ -13,6 +13,7 @@ Data set is taken from : [https://datahack.analyticsvidhya.com/contest/practice-
    - Total Number of missing values found in various columns ->
                                                                Demographic - 479, Broadcast - 431, Premiered - 431, Synonyms - 291, Genres - 229, English - 141
    - Handled all the columns with Null values appropriately, according to their data types.
+   - Used various practices such as dropping the rows or unnecessary columns, imputation and much more.
    - Size of Dataset after cleaning - 435 rows * 19 columns
 
  2. **Exploratory Data Analysis (EDA):** 📈
